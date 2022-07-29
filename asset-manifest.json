@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Nomadcoder_practice_byjo/static/js/main.2419ddeb.js",
+    "main.js": "/Nomadcoder_practice_byjo/static/js/main.9c22a69e.js",
     "index.html": "/Nomadcoder_practice_byjo/index.html",
-    "main.2419ddeb.js.map": "/Nomadcoder_practice_byjo/static/js/main.2419ddeb.js.map"
+    "main.9c22a69e.js.map": "/Nomadcoder_practice_byjo/static/js/main.9c22a69e.js.map"
   },
   "entrypoints": [
-    "static/js/main.2419ddeb.js"
+    "static/js/main.9c22a69e.js"
   ]
 }
